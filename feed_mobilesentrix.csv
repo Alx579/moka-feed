@@ -154,7 +154,7 @@ MS-107082020021;9;86.9;Baterie Samsung Galaxy A10 / A7 (2018) / A8 (2016) EB-BA7
 MS-107082020022;3;36.9;Camera Frontala Selfie Samsung Galaxy A10
 MS-107082020023;2;38.9;Camera Spate Samsung Galaxy A10
 MS-107082020024;6;74.9;Placa Mufa Incarcare Samsung Galaxy A10 cu Mufa Jack, Premium
-MS-107082020030;6;29.9;Suport Sertar Dual SIM Samsung Galaxy A10, Negru
+MS-107082020030;5;29.9;Suport Sertar Dual SIM Samsung Galaxy A10, Negru
 MS-107082020031;3;29.9;Suport Sertar Dual SIM Samsung Galaxy A10, Albastru
 MS-107082020032;2;29.9;Suport Sertar Dual SIM Samsung Galaxy A10, Roșu
 MS-107082020037;1;25.9;Geam Camera Spate Samsung Galaxy A10 cu Rama, Negru
@@ -516,7 +516,7 @@ MS-107082074050;2;29.9;Suport Sertar Dual SIM Samsung Galaxy A71 4G, Albastru
 MS-107082074051;1;29.9;Suport Sertar Dual SIM Samsung Galaxy A71 4G, Roz
 MS-107082088221;4;29.9;Suport Sertar Dual SIM Samsung Galaxy A32 4G, Alb
 MS-107082087222;4;30.9;Suport Sertar Dual SIM Samsung Galaxy A32 5G, Alb
-MS-107082083532;4;38.9;Camera Frontala Selfie Samsung Galaxy A51 4G / A51 5G UW
+MS-107082083532;3;38.9;Camera Frontala Selfie Samsung Galaxy A51 4G / A51 5G UW
 MS-107082076526;5;30.9;Motor Vibratii Samsung Galaxy A71 5G UW
 MS-107082074229;3;25.9;Suport Sertar Dual SIM Samsung Galaxy A90 5G, Negru
 MS-107082087323;7;29.9;Suport Sertar Dual SIM Samsung Galaxy A72 4G, Negru
@@ -719,7 +719,7 @@ MS-107082026025;4;29.9;Suport Sertar Dual SIM Samsung Galaxy A52 4G / A52S 5G, V
 MS-107082026030;4;25.9;Suport Sertar Dual SIM Samsung Galaxy A40 4G, Roșu
 MS-107082026034;2;27.9;Suport Sertar Dual SIM Samsung Galaxy A30S, Verde
 MS-107082025373;9;32.9;Difuzor Sonerie (Buzzer) Samsung Galaxy A80
-MS-107082025375;12;30.9;Difuzor Sonerie (Buzzer) Samsung Galaxy A51 4G
+MS-107082025375;11;30.9;Difuzor Sonerie (Buzzer) Samsung Galaxy A51 4G
 MS-107082026023;2;30.9;Suport Sertar Dual SIM Samsung Galaxy A52 4G / A52S 5G, Alb
 MS-107082026032;2;30.9;Suport Sertar Dual SIM Samsung Galaxy A30S, Alb
 MS-107082026040;6;29.9;Suport Sertar Dual SIM Samsung Galaxy A41 4G, Albastru
@@ -851,7 +851,7 @@ MS-107082102153;1;31.9;Geam Camera Spate Samsung Galaxy A22 4G cu Rama, Mentă
 MS-107082102155;5;31.9;Geam Camera Spate Samsung Galaxy A22 4G cu Rama, Alb
 MS-107082102154;1;25.9;Geam Camera Spate Samsung Galaxy A22 4G cu Rama, Violet
 MS-107082014599;5;30.9;Cablu Flex Butoane Pornire si Volum Samsung Galaxy A10s
-MS-107082103921;65;100.9;Display Samsung Galaxy A12 4G fara Rama, Original Recondiționat
+MS-107082103921;64;100.9;Display Samsung Galaxy A12 4G fara Rama, Original Recondiționat
 MS-107082101321;3;30.9;Cablu Flex Butoane Pornire si Volum Samsung Galaxy A32 5G / A13 5G / A13 4G
 MS-107085003701;22;103.9;Display Samsung Galaxy A13 5G fara Rama, Original Recondiționat
 MS-107085003702;19;114.9;Display Samsung Galaxy A13 5G cu Rama, Original Recondiționat
@@ -1313,8 +1313,8 @@ MS-107082003704;6;374.9;Display Samsung Galaxy A34 5G cu Rama, Original Recondi�
 MS-107082074011;8;218.9;Display Samsung Galaxy A71 4G cu Rama, OLED Plus
 MS-107082129335;6;86.9;Capac Spate Samsung Galaxy A23 5G cu Geam Camera, Compatibil Plus, Negru
 MS-107082111202;48;206.9;Display Samsung Galaxy A33 5G cu Rama, OLED Plus, Negru
-MS-107082003720;5;30.9;Geam Camera Spate Samsung Galaxy A34 5G cu Rama, Grafit
-MS-107082111316;20;120.9;Display Samsung Galaxy A53 5G cu Rama, LCD Incell, Negru
+MS-107082003720;4;30.9;Geam Camera Spate Samsung Galaxy A34 5G cu Rama, Grafit
+MS-107082111316;19;120.9;Display Samsung Galaxy A53 5G cu Rama, LCD Incell, Negru
 MS-107082111317;5;120.9;Display Samsung Galaxy A53 5G cu Rama, LCD Incell, Albastru
 MS-107082111318;4;120.9;Display Samsung Galaxy A53 5G cu Rama, LCD Incell, Alb
 MS-107082111319;3;120.9;Display Samsung Galaxy A53 5G cu Rama, LCD Incell, Piersică
@@ -1788,7 +1788,7 @@ MS-107082129888;12;41.9;Placa Mufa Incarcare Samsung Galaxy A34 5G, Compatibil P
 MS-107082129889;100;41.9;Placa Mufa Incarcare Samsung Galaxy A35 5G, Compatibil Plus
 MS-107082129890;100;41.9;Placa Mufa Incarcare Samsung Galaxy A54 5G, Compatibil Plus
 MS-107082129891;68;43.9;Placa Mufa Incarcare Samsung Galaxy A55 5G, Compatibil Plus
-MS-107082140939;13;37.9;Placa Mufa Incarcare Samsung Galaxy A15 4G cu Mufa Jack, Compatibil Plus
+MS-107082140939;12;37.9;Placa Mufa Incarcare Samsung Galaxy A15 4G cu Mufa Jack, Compatibil Plus
 MS-107182192420;11;30.9;Suport Sertar Dual SIM Samsung Galaxy A06 4G, Negru
 MS-107182192421;4;30.9;Suport Sertar Dual SIM Samsung Galaxy A06 4G, Alb
 MS-107182192422;5;30.9;Suport Sertar Dual SIM Samsung Galaxy A06 4G, Albastru
@@ -1895,7 +1895,7 @@ MS-107183137110;10;44.9;Placa Mufa Incarcare Samsung Galaxy A16 5G, Compatibil P
 MS-107183137111;3;30.9;Suport Sertar Single SIM Samsung Galaxy A16 5G, Blue Black
 MS-107183137112;5;30.9;Suport Sertar Single SIM Samsung Galaxy A16 5G, Gri Deschis
 MS-107183137113;6;30.9;Suport Sertar Single SIM Samsung Galaxy A16 5G, Verde Deschis
-MS-107183137114;16;30.9;Suport Sertar Dual SIM Samsung Galaxy A16 5G, Blue Black
+MS-107183137114;15;30.9;Suport Sertar Dual SIM Samsung Galaxy A16 5G, Blue Black
 MS-107183137115;4;30.9;Suport Sertar Dual SIM Samsung Galaxy A16 5G, Gri Deschis
 MS-107183137116;6;30.9;Suport Sertar Dual SIM Samsung Galaxy A16 5G, Verde Deschis
 MS-107183137117;27;91.9;Placa Mufa Incarcare Samsung Galaxy A16 5G, Premium
@@ -2034,7 +2034,7 @@ MS-107182116592;6;30.9;Suport Sertar Dual SIM Samsung Galaxy A07 4G, Gri
 MS-107182116593;2;30.9;Suport Sertar Dual SIM Samsung Galaxy A07 4G, Violet
 MS-107182116595;14;30.9;Suport Sertar Single SIM Samsung Galaxy A17 4G, Negru
 MS-107182116596;4;29.9;Suport Sertar Single SIM Samsung Galaxy A17 4G, Albastru Deschis
-MS-107182116597;21;30.9;Suport Sertar Dual SIM Samsung Galaxy A17 4G, Negru
+MS-107182116597;20;30.9;Suport Sertar Dual SIM Samsung Galaxy A17 4G, Negru
 MS-107182116598;13;30.9;Suport Sertar Dual SIM Samsung Galaxy A17 4G, Albastru Deschis
 MS-107182116599;6;46.9;Senzor Amprenta cu Cablu Flex Samsung Galaxy A17 4G, Negru
 MS-107182116600;2;46.9;Senzor Amprenta cu Cablu Flex Samsung Galaxy A17 4G, Gri
@@ -2051,7 +2051,7 @@ MS-107182117198;4;43.9;Rama Mijloc Carcasa Samsung Galaxy A17 4G, Negru
 MS-107182117199;3;43.9;Rama Mijloc Carcasa Samsung Galaxy A17 4G, Gri
 MS-107182117200;6;43.9;Rama Mijloc Carcasa Samsung Galaxy A17 4G, Albastru Deschis
 MS-107182117201;3;39.9;Rama Display (LCD Frame) Samsung Galaxy A17 5G
-MS-107182117202;16;43.9;Rama Mijloc Carcasa Samsung Galaxy A17 5G, Negru
+MS-107182117202;15;43.9;Rama Mijloc Carcasa Samsung Galaxy A17 5G, Negru
 MS-107182117203;8;43.9;Rama Mijloc Carcasa Samsung Galaxy A17 5G, Albastru
 MS-107182127444;2;92.9;Baterie Samsung Galaxy A24 4G EB-BA245ABY
 MS-107182127585;44;90.9;Baterie Samsung Galaxy A26 5G / A16 5G / A16 4G EB-BA166ABY
@@ -2087,7 +2087,7 @@ MS-107182199144;0;423.9;Display Samsung Galaxy A90 5G cu Rama, Original Service 
 MS-107182199148;2;479.9;Display Samsung Galaxy A55 5G cu Rama, Original Service Pack, Galben Lămâie
 MS-107182199452;9;87.9;Baterie Samsung Galaxy A17 5G EB-B166ASY
 MS-107182199455;10;329.9;Display Samsung Galaxy A17 4G fara Rama, Original Recondiționat
-MS-107182199599;16;109.9;Display Samsung Galaxy A17 5G cu Rama, LCD Incell - Versiune SUA (US)
+MS-107182199599;15;109.9;Display Samsung Galaxy A17 5G cu Rama, LCD Incell - Versiune SUA (US)
 MS-107182199600;4;117.9;Display Samsung Galaxy A26 5G cu Rama, LCD Incell, Negru - Versiune SUA (US)
 MS-107182199602;4;121.9;Display Samsung Galaxy A35 5G cu Rama, LCD Incell, Bleumarin
 MS-107182199706;21;98.9;Display Samsung Galaxy A07 5G fara Rama, Original Recondiționat
@@ -2344,7 +2344,7 @@ MS-107082268531;2;114.9;Display Samsung Galaxy A24 4G cu Rama, LCD Incell
 MS-107082268532;20;240.9;Display Samsung Galaxy A25 5G cu Rama, OLED Plus
 MS-107082268533;27;124.9;Display Samsung Galaxy A25 5G cu Rama, LCD Incell
 MS-107082268534;15;254.9;Display Samsung Galaxy A34 5G cu Rama, OLED Plus, Grafit
-MS-107082268535;22;124.9;Display Samsung Galaxy A34 5G cu Rama, LCD Incell, Grafit
+MS-107082268535;21;124.9;Display Samsung Galaxy A34 5G cu Rama, LCD Incell, Grafit
 MS-107082268536;5;216.9;Display Samsung Galaxy A55 5G cu Rama, OLED Plus, Bleumarin
 MS-107082268537;18;137.9;Display Samsung Galaxy A55 5G cu Rama, LCD Incell, Bleumarin
 MS-107082268547;0;213.9;Display Samsung Galaxy A37 5G cu Rama, OLED Plus, Gri Antracit
@@ -2615,7 +2615,7 @@ MS-107082025382;15;30.9;Adeziv Capac Spate Samsung Galaxy S20 FE
 MS-107082026011;5;27.9;Suport Sertar Dual SIM Samsung Galaxy S20 / S20 Plus / S20 Ultra, Aura Blue
 MS-107082026001;8;28.9;Suport Sertar Dual SIM Samsung Galaxy S21 Ultra, Phantom Titanium
 MS-107082026002;8;27.9;Suport Sertar Dual SIM Samsung Galaxy S21 Ultra, Bleumarin
-MS-107082026006;22;30.9;Suport Sertar Dual SIM Samsung Galaxy S21, Negru
+MS-107082026006;21;30.9;Suport Sertar Dual SIM Samsung Galaxy S21, Negru
 MS-107082026008;1;29.9;Suport Sertar Dual SIM Samsung Galaxy S21 Plus, Argintiu
 MS-107082026004;28;32.9;Suport Sertar Dual SIM Samsung Galaxy S21, Alb
 MS-107082026009;8;29.9;Suport Sertar Dual SIM Samsung Galaxy S21 Plus, Auriu
@@ -2712,7 +2712,7 @@ MS-107082087738;19;869.9;Display Samsung Galaxy S22 cu Rama, Original Service Pa
 MS-107082087735;5;800.9;Display Samsung Galaxy S22 Plus cu Rama, Original Service Pack, Alb
 MS-107082087740;13;896.9;Display Samsung Galaxy S22 Plus cu Rama, Original Service Pack, Negru
 MS-107082079226;9;77.9;Difuzor Sonerie (Buzzer) Samsung Galaxy S22 Plus
-MS-107082076602;2;235.9;Display Samsung Galaxy S20 FE cu Rama, OLED Plus, Alb
+MS-107082076602;1;235.9;Display Samsung Galaxy S20 FE cu Rama, OLED Plus, Alb
 MS-107082076603;7;235.9;Display Samsung Galaxy S20 FE cu Rama, OLED Plus, Cloud Orange
 MS-107082076604;13;235.9;Display Samsung Galaxy S20 FE cu Rama, OLED Plus, Cloud Mint
 MS-107082076601;19;235.9;Display Samsung Galaxy S20 FE cu Rama, OLED Plus, Cloud Navy
@@ -2788,7 +2788,7 @@ MS-107082079258;14;108.9;Capac Spate Samsung Galaxy S22 Ultra cu Geam Camera, Co
 MS-107082079254;0;28.9;Geam Camera Spate Samsung Galaxy S22 Ultra cu Rama
 MS-107082085965;3;30.9;Adeziv Baterie Samsung Galaxy S22 Plus
 MS-107082086632;4;32.9;Suport Sertar Dual SIM Samsung Galaxy S21 Plus, Roz
-MS-107082079343;17;29.9;Adeziv Baterie Samsung Galaxy S22
+MS-107082079343;16;29.9;Adeziv Baterie Samsung Galaxy S22
 MS-107082079737;10;29.9;Adeziv Baterie Samsung Galaxy S21 FE
 MS-107082079255;15;30.9;Adeziv Display Samsung Galaxy S22 Ultra
 MS-107082086629;6;29.9;Butoane Exterioare Pornire si Volum Samsung Galaxy S21 Plus, Argintiu
@@ -2863,7 +2863,7 @@ MS-107082085966;2;92.9;Antena NFC si Incarcare Wireless Samsung Galaxy S21 Ultra
 MS-107082079272;6;84.9;Creion S Pen Samsung Galaxy S22 Ultra, Alb
 MS-107082079271;5;83.9;Creion S Pen Samsung Galaxy S22 Ultra, Negru
 MS-107082079273;14;84.9;Creion S Pen Samsung Galaxy S22 Ultra, Burgundy
-MS-107082079274;6;83.9;Creion S Pen Samsung Galaxy S22 Ultra, Verde
+MS-107082079274;5;83.9;Creion S Pen Samsung Galaxy S22 Ultra, Verde
 MS-107082076630;14;82.9;Camera Spate Principala (Wide) Samsung Galaxy S20 FE
 MS-107082076632;6;43.9;Camera Spate Telephoto Samsung Galaxy S20 FE
 MS-107082076633;6;75.9;Camera Frontala Selfie Samsung Galaxy S20 FE
@@ -3009,7 +3009,7 @@ MS-107082136730;35;31.9;Suport Sertar Single SIM Samsung Galaxy S23 / S23 Plus, 
 MS-107082136731;6;31.9;Suport Sertar Single SIM Samsung Galaxy S23 / S23 Plus, Verde
 MS-107082136531;8;31.9;Suport Sertar Single SIM Samsung Galaxy S23 Ultra, Verde
 MS-107082136533;6;31.9;Suport Sertar Single SIM Samsung Galaxy S23 Ultra, Cream
-MS-107082136534;30;33.9;Suport Sertar Dual SIM Samsung Galaxy S23 Ultra, Negru
+MS-107082136534;29;33.9;Suport Sertar Dual SIM Samsung Galaxy S23 Ultra, Negru
 MS-107082136603;7;688.9;Display Samsung Galaxy S23 cu Rama, Original Recondiționat, Verde
 MS-107082136703;4;572.9;Display Samsung Galaxy S23 Plus cu Rama, Original Recondiționat, Verde
 MS-107082136502;3;1198.9;Display Samsung Galaxy S23 Ultra cu Rama, Original Recondiționat, Cream
@@ -3024,11 +3024,11 @@ MS-107082136702;7;572.9;Display Samsung Galaxy S23 Plus cu Rama, Original Recond
 MS-107082136501;14;1198.9;Display Samsung Galaxy S23 Ultra cu Rama, Original Recondiționat, Negru
 MS-107082136504;2;1198.9;Display Samsung Galaxy S23 Ultra cu Rama, Original Recondiționat, Lavandă
 MS-107082136509;61;1105.9;Display Samsung Galaxy S23 Ultra fara Rama, Original Recondiționat
-MS-107082140709;22;36.9;Adeziv Capac Spate Samsung Galaxy S22
+MS-107082140709;21;36.9;Adeziv Capac Spate Samsung Galaxy S22
 MS-107082136601;17;688.9;Display Samsung Galaxy S23 cu Rama, Original Recondiționat, Negru
 MS-107082136503;4;1198.9;Display Samsung Galaxy S23 Ultra cu Rama, Original Recondiționat, Verde
 MS-107082136505;5;1198.9;Display Samsung Galaxy S23 Ultra cu Rama, Original Recondiționat, Grafit
-MS-107082136507;2;1198.9;Display Samsung Galaxy S23 Ultra cu Rama, Original Recondiționat, Sky Blue
+MS-107082136507;1;1198.9;Display Samsung Galaxy S23 Ultra cu Rama, Original Recondiționat, Sky Blue
 MS-107082088053;2;84.9;Antena NFC si Incarcare Wireless Samsung Galaxy S22 Plus
 MS-107082079758;8;36.9;Difuzor Casca Apel Samsung Galaxy S21 FE cu Capac Antena
 MS-107082079757;7;44.9;Antena NFC si Incarcare Wireless Samsung Galaxy S21 FE
@@ -3107,7 +3107,7 @@ MS-107085204403;6;403.9;Display Samsung Galaxy S20 FE cu Rama, Original Recondi�
 MS-107082136707;5;505.9;Display Samsung Galaxy S23 Plus fara Rama, Original Recondiționat
 MS-107082136607;3;688.9;Display Samsung Galaxy S23 cu Rama, Original Recondiționat, Roz
 MS-107070809043;4;84.9;Creion S Pen Samsung Galaxy S23 Ultra, Verde
-MS-107070809045;23;84.9;Creion S Pen Samsung Galaxy S23 Ultra, Negru
+MS-107070809045;22;84.9;Creion S Pen Samsung Galaxy S23 Ultra, Negru
 MS-107070809042;3;84.9;Creion S Pen Samsung Galaxy S23 Ultra, Cream
 MS-107070809044;2;83.9;Creion S Pen Samsung Galaxy S23 Ultra, Lavandă
 MS-107082136551;1;95.9;Camera Spate Periscope & Telephoto Samsung Galaxy S23 Ultra
@@ -3366,7 +3366,7 @@ MS-107082092564;13;211.9;Capac Spate Samsung Galaxy S23 cu Geam Camera, Original
 MS-107082073150;63;144.9;Capac Spate Samsung Galaxy S20 FE cu Geam Camera, Original Service Pack, Alb
 MS-107082132041;87;30.9;Adeziv Display Samsung Galaxy S24 Ultra
 MS-107082132043;40;30.9;Adeziv Display Samsung Galaxy S24
-MS-107082132044;23;99.9;Capac Spate Samsung Galaxy S24 Ultra cu Geam Camera, Compatibil Plus, Titanium Black
+MS-107082132044;22;99.9;Capac Spate Samsung Galaxy S24 Ultra cu Geam Camera, Compatibil Plus, Titanium Black
 MS-107082132045;21;101.9;Capac Spate Samsung Galaxy S24 Ultra cu Geam Camera, Compatibil Plus, Titanium Gray
 MS-107082132046;11;98.9;Capac Spate Samsung Galaxy S24 Ultra cu Geam Camera, Compatibil Plus, Titanium Violet
 MS-107082132047;9;99.9;Capac Spate Samsung Galaxy S24 Ultra cu Geam Camera, Compatibil Plus, Titanium Yellow
@@ -3490,7 +3490,7 @@ MS-107082131064;8;191.9;Rama Mijloc Carcasa Samsung Galaxy S23 FE, Cream
 MS-109082007289;8;38.9;Antena NFC si Incarcare Wireless Samsung Galaxy S20
 MS-107082145317;6;637.9;Display Samsung Galaxy S24 fara Rama, Original Recondiționat
 MS-107082145341;4;194.9;Camera Spate Periscope Telephoto Samsung Galaxy S24 Ultra
-MS-107082132053;11;86.9;Creion S Pen Samsung Galaxy S24 Ultra, Auriu
+MS-107082132053;10;86.9;Creion S Pen Samsung Galaxy S24 Ultra, Auriu
 MS-107083009163;2;838.9;Display Samsung Galaxy S24 Plus cu Rama, Original Recondiționat, Jade Green
 MS-107083009166;3;838.9;Display Samsung Galaxy S24 Plus cu Rama, Original Recondiționat, Sandstone Orange
 MS-107082145316;7;768.9;Display Samsung Galaxy S24 Plus fara Rama, Original Recondiționat
@@ -3531,7 +3531,7 @@ MS-107182136237;5;35.9;Geam Camera Spate Samsung Galaxy S24 cu Rama, Sapphire Bl
 MS-107182136238;4;32.9;Geam Camera Spate Samsung Galaxy S24 cu Rama, Sandstone Orange
 MS-107182136239;4;32.9;Geam Camera Spate Samsung Galaxy S24 cu Rama, Jade Green
 MS-107182136240;4;29.9;Butoane Exterioare Pornire si Volum Samsung Galaxy S24, Black Onyx
-MS-107182136241;12;29.9;Butoane Exterioare Pornire si Volum Samsung Galaxy S24, Marble Gray
+MS-107182136241;11;29.9;Butoane Exterioare Pornire si Volum Samsung Galaxy S24, Marble Gray
 MS-107182136242;15;29.9;Butoane Exterioare Pornire si Volum Samsung Galaxy S24, Cobalt Violet
 MS-107182136243;4;29.9;Butoane Exterioare Pornire si Volum Samsung Galaxy S24, Amber Yellow
 MS-107182136244;5;29.9;Butoane Exterioare Pornire si Volum Samsung Galaxy S24, Jade Green
@@ -3653,7 +3653,7 @@ MS-107082233341;46;966.9;Display Samsung Galaxy S25 Ultra fara Rama, Original Se
 MS-107082233349;100;505.9;Display Samsung Galaxy S25 fara Rama, Original Service Pack
 MS-107082233350;3;253.9;Capac Spate Samsung Galaxy S25 cu Geam Camera, Original Service Pack, Mentă
 MS-107082233352;12;229.9;Capac Spate Samsung Galaxy S25 cu Geam Camera, Original Service Pack, Silver Shadow
-MS-107082233354;3;241.9;Capac Spate Samsung Galaxy S25 Plus cu Geam Camera, Original Service Pack, Mentă
+MS-107082233354;2;241.9;Capac Spate Samsung Galaxy S25 Plus cu Geam Camera, Original Service Pack, Mentă
 MS-107082233355;0;263.9;Capac Spate Samsung Galaxy S25 Plus cu Geam Camera, Original Service Pack, Bleumarin
 MS-107082132360;2;585.9;Display Samsung Galaxy S25 fara Rama, Original Recondiționat
 MS-107082233357;21;280.9;Capac Spate Samsung Galaxy S25 Ultra cu Geam Camera, Original Service Pack, Titanium Silver Blue
@@ -3715,7 +3715,7 @@ MS-107082113021;6;1145.9;Display Samsung Galaxy S25 Ultra cu Rama, Original Reco
 MS-107082113130;28;30.9;Adeziv Display Samsung Galaxy S24 FE
 MS-107082113131;20;91.9;Creion S Pen Samsung Galaxy S25 Ultra, Titanium Jet Black
 MS-107082113132;1;91.9;Creion S Pen Samsung Galaxy S25 Ultra, Titanium Pink Gold
-MS-107082113133;13;91.9;Creion S Pen Samsung Galaxy S25 Ultra, Titanium White Silver
+MS-107082113133;12;91.9;Creion S Pen Samsung Galaxy S25 Ultra, Titanium White Silver
 MS-107082113160;5;281.9;Rama Mijloc Carcasa Samsung Galaxy S25, Albastru Gheață
 MS-107082113161;2;280.9;Rama Mijloc Carcasa Samsung Galaxy S25, Mentă
 MS-107082113162;2;280.9;Rama Mijloc Carcasa Samsung Galaxy S25, Bleumarin
@@ -4112,7 +4112,7 @@ MS-107183200665;4;420.9;Display Samsung Galaxy S22 Ultra cu Rama, OLED Plus, Alb
 MS-107183200666;15;420.9;Display Samsung Galaxy S22 Ultra cu Rama, OLED Plus, Verde
 MS-107183200667;30;420.9;Display Samsung Galaxy S22 Ultra cu Rama, OLED Plus, Burgundy
 MS-107183200668;19;420.9;Display Samsung Galaxy S22 Ultra cu Rama, OLED Plus, Grafit
-MS-107183200669;42;423.9;Display Samsung Galaxy S23 Ultra cu Rama, OLED Plus, Negru
+MS-107183200669;41;423.9;Display Samsung Galaxy S23 Ultra cu Rama, OLED Plus, Negru
 MS-107183200670;10;423.9;Display Samsung Galaxy S23 Ultra cu Rama, OLED Plus, Cream
 MS-107183200671;25;423.9;Display Samsung Galaxy S23 Ultra cu Rama, OLED Plus, Verde
 MS-107183200672;11;423.9;Display Samsung Galaxy S23 Ultra cu Rama, OLED Plus, Lavandă
@@ -4229,7 +4229,7 @@ MS-107182229931;5;1685.9;Display Samsung Galaxy S26 Ultra cu Rama, Original Serv
 MS-107082268540;24;250.9;Display Samsung Galaxy S23 FE cu Rama, OLED Plus, Grafit
 MS-107082268541;5;239.9;Display Samsung Galaxy S24 FE fara Rama, OLED Plus
 MS-107082268542;4;287.9;Display Samsung Galaxy S24 FE cu Rama, OLED Plus, Gri
-MS-107082268543;4;288.9;Display Samsung Galaxy S24 FE cu Rama, OLED Plus, Grafit
+MS-107082268543;3;288.9;Display Samsung Galaxy S24 FE cu Rama, OLED Plus, Grafit
 MS-107082268551;12;636.9;Display Samsung Galaxy S26 cu Rama, OLED Plus, Negru
 MS-107082268552;8;636.9;Display Samsung Galaxy S26 cu Rama, OLED Plus, Alb
 MS-107082268559;8;162.9;Display Samsung Galaxy S20 Plus cu Rama, LCD Incell, Cosmic Black
@@ -4248,7 +4248,7 @@ MS-107082268853;4;155.9;Placa Mufa Incarcare Samsung Galaxy S26 Ultra, Premium -
 MS-107082268854;9;114.9;Placa Mufa Incarcare Samsung Galaxy S26, Premium
 MS-107082360082;18;147.9;Display Samsung Galaxy S20 cu Rama, LCD Incell, Cosmic Black
 MS-107082360083;9;147.9;Display Samsung Galaxy S20 cu Rama, LCD Incell, Alb
-MS-107082360084;10;157.9;Display Samsung Galaxy S20 Ultra cu Rama, LCD Incell, Cosmic Black
+MS-107082360084;9;157.9;Display Samsung Galaxy S20 Ultra cu Rama, LCD Incell, Cosmic Black
 MS-107082360085;10;159.9;Display Samsung Galaxy S20 Ultra cu Rama, LCD Incell, Cosmic Gray
 MS-107082360086;7;157.9;Display Samsung Galaxy S20 Ultra cu Rama, LCD Incell, Alb
 MS-107082360087;21;145.9;Display Samsung Galaxy S21 cu Rama, LCD Incell, Gri
@@ -4262,10 +4262,10 @@ MS-107082360094;17;182.9;Display Samsung Galaxy S23 Plus cu Rama, LCD Incell, Ne
 MS-107082360095;9;182.9;Display Samsung Galaxy S23 Plus cu Rama, LCD Incell, Lavandă
 MS-107082360096;8;182.9;Display Samsung Galaxy S23 Plus cu Rama, LCD Incell, Verde
 MS-107082360097;20;197.9;Display Samsung Galaxy S23 cu Rama, LCD Incell, Negru
-MS-107082360098;32;195.9;Display Samsung Galaxy S23 Ultra cu Rama, LCD Incell, Negru
+MS-107082360098;31;195.9;Display Samsung Galaxy S23 Ultra cu Rama, LCD Incell, Negru
 MS-107082360099;36;202.9;Display Samsung Galaxy S24 Ultra cu Rama, LCD Incell, Titanium Black
 MS-107082360100;20;209.9;Display Samsung Galaxy S24 Plus cu Rama, LCD Incell, Onyx Black
-MS-107082360101;17;248.9;Display Samsung Galaxy S25 Ultra cu Rama, LCD Incell, Titanium Jet Black
+MS-107082360101;16;248.9;Display Samsung Galaxy S25 Ultra cu Rama, LCD Incell, Titanium Jet Black
 MS-107082360211;6;135.9;Placa Mufa Incarcare Samsung Galaxy S26, Premium - Versiune SUA (US)
 MS-11000000029;8;394.9;Display Samsung Galaxy S25 FE cu Rama, OLED Plus, Alb
 MS-11000000030;30;394.9;Display Samsung Galaxy S25 FE cu Rama, OLED Plus, Jetblack
@@ -4342,7 +4342,7 @@ MS-107085424526;2;90.9;Camera Spate Samsung Galaxy Z Fold 3
 MS-107082084741;5;110.9;Camera Spate Samsung Galaxy Z Fold 2
 MS-107082102779;6;1635.9;Display Interior (Principal) Samsung Galaxy Z Flip 3 cu Rama, Original Service Pack, Lavandă
 MS-107082080962;81;2874.9;Display Interior (Principal) Samsung Galaxy Z Fold 4 cu Rama, Original Service Pack, Negru
-MS-107082103541;12;117.9;Capac Spate Samsung Galaxy Z Fold 3 cu Geam Camera, Compatibil Plus, Negru
+MS-107082103541;11;117.9;Capac Spate Samsung Galaxy Z Fold 3 cu Geam Camera, Compatibil Plus, Negru
 MS-107082103543;1;109.9;Capac Spate Samsung Galaxy Z Fold 3 cu Geam Camera, Compatibil Plus, Verde
 MS-107082103542;4;117.9;Capac Spate Samsung Galaxy Z Fold 3 cu Geam Camera, Compatibil Plus, Argintiu
 MS-107082102711;4;1175.9;Display Interior (Principal) Samsung Galaxy Z Flip 3 cu Rama, Original Recondiționat, Lavandă
@@ -4754,7 +4754,7 @@ MS-107082159248;5;131.9;Capac Spate Samsung Galaxy Z Flip 3, Compatibil Plus, Ne
 MS-107182113496;17;1377.9;Display Interior (Principal) Samsung Galaxy Z Flip 7 FE cu Rama, Original Service Pack, Negru
 MS-107182113497;0;1430.9;Display Interior (Principal) Samsung Galaxy Z Flip 7 FE cu Rama, Original Service Pack, Alb
 MS-107182113498;20;416.9;Display Exterior (Cover Screen) Samsung Galaxy Z Flip 7 FE fara Rama, Original Service Pack
-MS-107182113944;12;876.9;Display Interior (Principal) Samsung Galaxy Z Flip 3 cu Rama, OLED Plus, Negru
+MS-107182113944;11;876.9;Display Interior (Principal) Samsung Galaxy Z Flip 3 cu Rama, OLED Plus, Negru
 MS-107182113945;2;876.9;Display Interior (Principal) Samsung Galaxy Z Flip 3 cu Rama, OLED Plus, Lavandă
 MS-107182113946;5;961.9;Display Interior (Principal) Samsung Galaxy Z Flip 4 cu Rama, OLED Plus, Bora Purple
 MS-107182113947;9;961.9;Display Interior (Principal) Samsung Galaxy Z Flip 4 cu Rama, OLED Plus, Grafit
@@ -4938,7 +4938,7 @@ MS-107082024820;15;35.9;Cablu Flex Placa de Baza (Main Flex) Samsung Galaxy Tab 
 MS-107082024223;1;32.9;Suport Sertar SIM Samsung Galaxy Tab S6 Lite, Negru
 MS-107082024224;2;30.9;Suport Sertar SIM Samsung Galaxy Tab S6 Lite, Rose Gold
 MS-107082025021;1;40.9;Senzor Amprenta cu Cablu Flex Samsung Galaxy Tab S7 Plus
-MS-107082081521;63;79.9;Placa Mufa Incarcare Samsung Galaxy Tab A7, Premium
+MS-107082081521;62;79.9;Placa Mufa Incarcare Samsung Galaxy Tab A7, Premium
 MS-107082081520;17;32.9;Cablu Flex Placa de Baza (Main Flex) Samsung Galaxy Tab A7
 MS-107082029001;0;41.9;Placa Mufa Incarcare Samsung Galaxy Tab Active 2 (LTE), Premium
 MS-107082029101;5;35.9;Placa Mufa Incarcare Samsung Galaxy Tab Active LTE, Premium
@@ -5598,7 +5598,7 @@ MS-107082082925;20;86.9;Cablu Flex Mufa Incarcare Lightning iPhone 12 Pro, Premi
 MS-107082082926;7;86.9;Cablu Flex Mufa Incarcare Lightning iPhone 12 Pro, Premium, Auriu
 MS-107082082754;27;29.9;Sertar SIM iPhone 12, Rosu
 MS-107082082854;17;29.9;Sertar SIM iPhone 12 Mini / 13 Mini, Rosu
-MS-107082082750;11;30.9;Sertar SIM iPhone 12 / 13, Alb
+MS-107082082750;10;30.9;Sertar SIM iPhone 12 / 13, Alb
 MS-107082082751;16;30.9;Sertar SIM iPhone 12 / 13, Negru
 MS-107082082950;21;30.9;Sertar SIM iPhone 12 Pro / 12 Pro Max / 13 Pro si altele, Argintiu
 MS-107082082952;33;30.9;Sertar SIM iPhone 12 Pro / 12 Pro Max / 13 Pro si altele, Auriu
@@ -5828,7 +5828,7 @@ MS-107082089952;23;230.9;Carcasa Spate Completa iPhone 12, Original Demontat Gra
 MS-107082089955;65;191.9;Carcasa Spate Completa iPhone 12, Original Demontat Grad B, Negru - Versiune SUA (US)
 MS-107082089958;12;191.9;Carcasa Spate Completa iPhone 12, Original Demontat Grad B, Verde - Versiune SUA (US)
 MS-107082089971;10;296.9;Carcasa Spate Completa iPhone 12 Pro, Original Demontat Grad B, Auriu - Versiune SUA (US)
-MS-107082089974;0;265.9;Carcasa Spate Completa iPhone 12 Pro, Original Demontat Grad C, Argintiu - Versiune SUA (US)
+MS-107082089974;0;265.89;Carcasa Spate Completa iPhone 12 Pro, Original Demontat Grad C, Argintiu - Versiune SUA (US)
 MS-107082089987;1;301.9;Carcasa Spate Completa iPhone 12 Pro Max, Original Demontat Grad C, Auriu - Versiune SUA (US)
 MS-107082089989;20;202.9;Carcasa Spate Completa iPhone SE (2020), Original Demontat Grad A, Negru
 MS-107082089953;0;230.89;Carcasa Spate Completa iPhone 12, Original Demontat Grad A, Verde - Versiune SUA (US)
@@ -5960,7 +5960,7 @@ MS-107085042454;100;95.9;Camera Spate iPhone 13 / 13 Mini, Premium
 MS-107850435451;35;39.9;Camera Frontala Selfie iPhone 13
 MS-107082080766;10;41.9;Cablu Flex Butoane Pornire / Volum iPhone 13 Pro Max
 MS-107082080738;19;41.9;Cablu Flex Butoane Pornire / Volum iPhone 13 Mini
-MS-107085042450;64;46.9;Cablu Flex Butoane Pornire / Volum iPhone 13
+MS-107085042450;63;46.9;Cablu Flex Butoane Pornire / Volum iPhone 13
 MS-107085042451;20;36.9;Cititor Card SIM Dual SIM iPhone 13
 MS-107082081860;5;46.9;Cablu Flex Butoane Pornire / Volum iPhone 12 Pro Max
 MS-107082080931;4;112.9;Cablu Flex Mufa Incarcare Lightning iPhone 13 Pro, Premium, Auriu
@@ -5993,7 +5993,7 @@ MS-107082081873;3;44.9;Capac Spate (Sticla) iPhone 12 Mini (fara logo) Gaura Cam
 MS-107082081875;6;43.9;Capac Spate (Sticla) iPhone 12 Mini (fara logo) Gaura Camera Mare, Mov
 MS-107082081874;3;42.9;Capac Spate (Sticla) iPhone 12 Mini (fara logo) Gaura Camera Mare, Verde
 MS-107085042472;19;74.9;Capac Spate (Sticla) iPhone 13 (fara logo) Gaura Camera Mare, Alb (Starlight)
-MS-107085042475;12;75.9;Capac Spate (Sticla) iPhone 13 (fara logo) Gaura Camera Mare, Roz
+MS-107085042475;11;75.9;Capac Spate (Sticla) iPhone 13 (fara logo) Gaura Camera Mare, Roz
 MS-107085042473;32;47.9;Capac Spate (Sticla) iPhone 13 (fara logo) Gaura Camera Mare, Negru (Midnight)
 MS-107085042474;11;72.9;Capac Spate (Sticla) iPhone 13 (fara logo) Gaura Camera Mare, Albastru
 MS-107085042476;8;47.9;Capac Spate (Sticla) iPhone 13 (fara logo) Gaura Camera Mare, Rosu
@@ -6144,7 +6144,7 @@ MS-107082111040;2;413.9;Carcasa Spate Completa iPhone 13 Pro, Original Demontat 
 MS-107082111043;34;330.9;Carcasa Spate Completa iPhone 13 Pro, Original Demontat Grad B, Grafit - Versiune SUA (US)
 MS-107082111044;10;330.9;Carcasa Spate Completa iPhone 13 Pro, Original Demontat Grad B, Auriu - Versiune SUA (US)
 MS-107082111045;12;330.9;Carcasa Spate Completa iPhone 13 Pro, Original Demontat Grad B, Argintiu - Versiune SUA (US)
-MS-107082111046;26;330.9;Carcasa Spate Completa iPhone 13 Pro, Original Demontat Grad B, Albastru Sierra - Versiune SUA (US)
+MS-107082111046;25;330.9;Carcasa Spate Completa iPhone 13 Pro, Original Demontat Grad B, Albastru Sierra - Versiune SUA (US)
 MS-107082111047;16;330.9;Carcasa Spate Completa iPhone 13 Pro, Original Demontat Grad B, Verde Alpin - Versiune SUA (US)
 MS-107082111048;11;290.9;Carcasa Spate Completa iPhone 13 Pro, Original Demontat Grad C, Grafit - Versiune SUA (US)
 MS-107082111049;38;290.9;Carcasa Spate Completa iPhone 13 Pro, Original Demontat Grad C, Auriu - Versiune SUA (US)
@@ -6279,7 +6279,7 @@ MS-107082129024;100;34.9;Geam Camera Spate iPhone 14 / 14 Plus (Safir), Premium
 MS-107082128733;29;41.9;Geam Camera Spate iPhone 14 Pro / 14 Pro Max cu Rama, Premium, Argintiu
 MS-107082128735;10;40.9;Geam Camera Spate iPhone 14 Pro / 14 Pro Max cu Rama, Premium, Auriu
 MS-107082128738;23;30.9;Sertar Dual SIM iPhone 14 Pro / 14 Pro Max, Mov Inchis
-MS-107082129030;37;30.9;Sertar SIM iPhone 14 / 14 Plus, Negru (Midnight)
+MS-107082129030;36;30.9;Sertar SIM iPhone 14 / 14 Plus, Negru (Midnight)
 MS-107082129031;20;30.9;Sertar SIM iPhone 14 / 14 Plus, Mov
 MS-107082128630;100;121.9;Cablu Flex Senzor Proximitate iPhone 14 Pro
 MS-107082129124;27;94.9;Cablu Flex Mufa Incarcare Lightning iPhone 14, Premium, Alb (Starlight)
@@ -6333,7 +6333,7 @@ MS-107082128639;14;89.9;Difuzor Sonerie (Buzzer) iPhone 14 Pro
 MS-107082128640;32;145.9;Camera Frontala Selfie iPhone 14 Pro
 MS-107082129139;100;213.9;Camera Spate iPhone 14, Premium
 MS-107082128637;23;41.9;Difuzor Casca Apel iPhone 14 Pro
-MS-107082128610;14;645.9;Display iPhone 14 Pro, Original Reconditionat
+MS-107082128610;12;645.9;Display iPhone 14 Pro, Original Reconditionat
 MS-107082128757;100;31.9;Antena NFC si Incarcare Wireless iPhone 14 Pro / 14 Pro Max, Premium
 MS-107082129001;10;564.9;Display iPhone 14 Plus, Original Reconditionat
 MS-107082129142;22;104.9;Cablu Flex Blitz (Lanterna) iPhone 14
@@ -6647,7 +6647,7 @@ MS-107082128709;2;418.9;Carcasa Spate Completa iPhone 14 Pro Max, Original Demon
 MS-107082128719;3;190.9;Capac Spate (Sticla) iPhone 14 Plus cu MagSafe (fara logo), Alb (Starlight)
 MS-107082128706;4;358.9;Carcasa Spate Completa iPhone 14 Pro, Original Demontat Grad C, Auriu - Versiune SUA (US)
 MS-107082128708;2;418.9;Carcasa Spate Completa iPhone 14 Pro Max, Original Demontat Grad B, Auriu - Versiune SUA (US)
-MS-107082091403;88;135.9;Display iPhone 12 Pro Max, LCD Incell
+MS-107082091403;87;135.9;Display iPhone 12 Pro Max, LCD Incell
 MS-107082104751;20;374.9;Carcasa Spate Completa iPhone 13 Pro Max, Original Demontat Grad C, Auriu - Versiune EU
 MS-107082104753;31;431.9;Carcasa Spate Completa iPhone 13 Pro Max, Original Demontat Grad B, Albastru Sierra - Versiune EU
 MS-107082104754;26;431.9;Carcasa Spate Completa iPhone 13 Pro Max, Original Demontat Grad B, Argintiu - Versiune EU
@@ -7622,7 +7622,7 @@ MS-107183138830;80;166.9;Baterie iPhone 16 Pro Max, Compatibil
 MS-107183138841;100;134.9;Baterie iPhone 16, Compatibil
 MS-107183138849;14;44.9;Butoane Exterioare Pornire / Volum iPhone 16 / 16 Plus, Negru
 MS-107183138852;7;45.9;Butoane Exterioare Pornire / Volum iPhone 16 / 16 Plus, Alb
-MS-107183138853;2;45.9;Butoane Exterioare Pornire / Volum iPhone 16 / 16 Plus, Roz
+MS-107183138853;1;45.9;Butoane Exterioare Pornire / Volum iPhone 16 / 16 Plus, Roz
 MS-107183138854;4;45.9;Butoane Exterioare Pornire / Volum iPhone 16 / 16 Plus, Turcoaz
 MS-107183138855;0;45.9;Butoane Exterioare Pornire / Volum iPhone 16 / 16 Plus, Ultramarin
 MS-107183138856;12;78.9;Butoane Exterioare Pornire / Volum iPhone 16 Pro / 16 Pro Max, Titan Negru
@@ -8209,11 +8209,11 @@ MS-107282226663;42;352.9;Carcasa Spate Completa iPhone 13 cu Mufa Incarcare, Ori
 MS-107282226664;11;352.9;Carcasa Spate Completa iPhone 13 cu Mufa Incarcare, Original Demontat Grad A, Roz - Versiune SUA (US)
 MS-107282226669;100;272.9;Carcasa Spate Completa iPhone 13 cu Mufa Incarcare, Original Demontat Grad B, Negru (Midnight) - Versiune SUA (US)
 MS-107282226666;9;352.9;Carcasa Spate Completa iPhone 13 cu Mufa Incarcare, Original Demontat Grad A, Alb (Starlight) - Versiune SUA (US)
-MS-107282226675;74;243.9;Carcasa Spate Completa iPhone 13 cu Mufa Incarcare, Original Demontat Grad C, Negru (Midnight) - Versiune SUA (US)
+MS-107282226675;73;243.9;Carcasa Spate Completa iPhone 13 cu Mufa Incarcare, Original Demontat Grad C, Negru (Midnight) - Versiune SUA (US)
 MS-107282226671;14;272.9;Carcasa Spate Completa iPhone 13 cu Mufa Incarcare, Original Demontat Grad B, Rosu - Versiune SUA (US)
 MS-107282226611;33;379.9;Carcasa Spate Completa iPhone 12 Pro Max cu Mufa Incarcare, Original Demontat Grad C, Albastru Pacific - Versiune EU
 MS-107282226670;57;272.9;Carcasa Spate Completa iPhone 13 cu Mufa Incarcare, Original Demontat Grad B, Roz - Versiune SUA (US)
-MS-107282226673;11;234.9;Carcasa Spate Completa iPhone 13 cu Mufa Incarcare, Original Demontat Grad C, Albastru - Versiune SUA (US)
+MS-107282226673;10;234.9;Carcasa Spate Completa iPhone 13 cu Mufa Incarcare, Original Demontat Grad C, Albastru - Versiune SUA (US)
 MS-107282226674;15;234.9;Carcasa Spate Completa iPhone 13 cu Mufa Incarcare, Original Demontat Grad C, Verde - Versiune SUA (US)
 MS-107282226677;5;234.9;Carcasa Spate Completa iPhone 13 cu Mufa Incarcare, Original Demontat Grad C, Rosu - Versiune SUA (US)
 MS-107282226672;33;272.9;Carcasa Spate Completa iPhone 13 cu Mufa Incarcare, Original Demontat Grad B, Alb (Starlight) - Versiune SUA (US)
@@ -8300,7 +8300,7 @@ MS-107282226841;24;590.9;Carcasa Spate Completa iPhone 14 Pro cu Mufa Incarcare,
 MS-107282226845;5;544.9;Carcasa Spate Completa iPhone 14 Pro cu Mufa Incarcare, Original Demontat Grad C, Auriu - Versiune EU
 MS-107282226840;27;590.9;Carcasa Spate Completa iPhone 14 Pro cu Mufa Incarcare, Original Demontat Grad B, Argintiu - Versiune EU
 MS-107282226843;15;544.9;Carcasa Spate Completa iPhone 14 Pro cu Mufa Incarcare, Original Demontat Grad C, Negru Spatial - Versiune EU
-MS-107282226842;44;590.9;Carcasa Spate Completa iPhone 14 Pro cu Mufa Incarcare, Original Demontat Grad B, Mov Inchis - Versiune EU
+MS-107282226842;43;590.9;Carcasa Spate Completa iPhone 14 Pro cu Mufa Incarcare, Original Demontat Grad B, Mov Inchis - Versiune EU
 MS-107282226847;0;738.9;Carcasa Spate Completa iPhone 14 Pro cu Mufa Incarcare, Original Demontat Grad A, Negru Spatial - Versiune SUA (US)
 MS-107282226848;0;738.9;Carcasa Spate Completa iPhone 14 Pro cu Mufa Incarcare, Original Demontat Grad A, Argintiu - Versiune SUA (US)
 MS-107282226849;2;738.9;Carcasa Spate Completa iPhone 14 Pro cu Mufa Incarcare, Original Demontat Grad A, Auriu - Versiune SUA (US)
@@ -8655,7 +8655,7 @@ MS-107082115631;5;637.9;Carcasa Spate Completa iPhone 14 Pro Max, Original Demon
 MS-107082115632;2;637.9;Carcasa Spate Completa iPhone 14 Pro Max, Original Demontat Grad B, Argintiu - Versiune EU
 MS-107082115628;1;542.9;Carcasa Spate Completa iPhone 14 Pro, Original Demontat Grad B, Argintiu - Versiune EU
 MS-107082115636;70;199.9;Rama Mijloc Carcasa iPhone 14, Original Demontat Grad B, Albastru - Versiune EU
-MS-107082115621;61;493.9;Carcasa Spate Completa iPhone 14 Pro, Original Demontat Grad C, Mov Inchis - Versiune EU
+MS-107082115621;60;493.9;Carcasa Spate Completa iPhone 14 Pro, Original Demontat Grad C, Mov Inchis - Versiune EU
 MS-107082115620;3;493.9;Carcasa Spate Completa iPhone 14 Pro, Original Demontat Grad C, Negru Spatial - Versiune EU
 MS-107082115635;5;199.9;Rama Mijloc Carcasa iPhone 14, Original Demontat Grad B, Galben - Versiune EU
 MS-107082115626;4;557.9;Carcasa Spate Completa iPhone 14 Pro Max, Original Demontat Grad C, Argintiu - Versiune EU
@@ -8803,7 +8803,7 @@ MS-107082115764;5;363.9;Rama Mijloc Carcasa iPhone 16 Pro, Original Demontat Gra
 MS-107082115766;4;363.9;Rama Mijloc Carcasa iPhone 16 Pro, Original Demontat Grad C, Titan Alb - Versiune EU
 MS-107082115765;11;363.9;Rama Mijloc Carcasa iPhone 16 Pro, Original Demontat Grad C, Titan Natural - Versiune EU
 MS-107082115767;6;467.9;Rama Mijloc Carcasa iPhone 16 Pro Max, Original Demontat Grad C, Titan Negru - Versiune EU
-MS-107282227886;51;323.9;Display iPhone 16 Pro Max 120Hz, Soft OLED
+MS-107282227886;50;323.9;Display iPhone 16 Pro Max 120Hz, Soft OLED
 MS-107282228100;2;274.9;Rama Mijloc Carcasa iPhone 16 Plus, Compatibil Plus, Negru - Versiune SUA (US)
 MS-107282228095;0;279.9;Rama Mijloc Carcasa iPhone 16, Compatibil Plus, Roz - Versiune SUA (US)
 MS-107282228094;5;276.9;Rama Mijloc Carcasa iPhone 16, Compatibil Plus, Negru - Versiune SUA (US)
@@ -8845,7 +8845,7 @@ MS-107282228155;100;126.9;Capac Spate (Sticla) iPhone 14 cu MagSafe, Original De
 MS-107282228201;0;266.9;Capac Spate (Sticla) iPhone 16 Plus cu MagSafe, Original Demontat Grad C, Alb
 MS-107282228199;3;266.9;Capac Spate (Sticla) iPhone 16 Plus cu MagSafe, Original Demontat Grad C, Turcoaz
 MS-107282228158;40;126.9;Capac Spate (Sticla) iPhone 14 cu MagSafe, Original Demontat Grad C, Alb (Starlight)
-MS-107282228202;17;348.9;Capac Spate (Sticla) iPhone 16 Pro cu MagSafe, Original Demontat Grad C, Titan Negru
+MS-107282228202;16;348.9;Capac Spate (Sticla) iPhone 16 Pro cu MagSafe, Original Demontat Grad C, Titan Negru
 MS-107282228159;0;126.9;Capac Spate (Sticla) iPhone 14 cu MagSafe, Original Demontat Grad C, Galben
 MS-107282228206;100;386.9;Capac Spate (Sticla) iPhone 16 Pro Max cu MagSafe, Original Demontat Grad C, Titan Negru
 MS-107282228205;0;348.9;Capac Spate (Sticla) iPhone 16 Pro cu MagSafe, Original Demontat Grad C, Titan Alb
@@ -9039,7 +9039,7 @@ MS-107182113918;0;169.93;Baterie iPhone 15 Pro, Original Demontat Grad C (sanata
 MS-107182113921;52;149.9;Baterie iPhone 15 Pro Max, Original Demontat Grad C (sanatate 90-94%)
 MS-107182113922;100;239.9;Baterie iPhone 16, Original Demontat Grad A (sanatate 99-100%)
 MS-107182113925;100;273.9;Baterie iPhone 16 Plus, Original Demontat Grad A (sanatate 99-100%)
-MS-107182113926;0;229.9;Baterie iPhone 16 Plus, Original Demontat Grad B (sanatate 95-98%)
+MS-107182113926;0;250.59;Baterie iPhone 16 Plus, Original Demontat Grad B (sanatate 95-98%)
 MS-107182113961;16;159.9;Cablu Flex Mufa Incarcare USB-C iPhone 17, Premium, Negru
 MS-107182113962;2;159.9;Cablu Flex Mufa Incarcare USB-C iPhone 17, Premium, Albastru Ceata
 MS-107182113991;53;328.9;Display iPhone 16 Pro, Soft OLED
@@ -9076,7 +9076,7 @@ MS-107182114078;12;1344.9;Carcasa Spate Completa iPhone 17 Pro Max cu Mufa Incar
 MS-107182114079;21;1252.9;Carcasa Spate Completa iPhone 17 Pro Max cu Mufa Incarcare, Original Demontat Grad A, Albastru Inchis - Versiune SUA (US)
 MS-107182114141;100;357.9;Display iPhone 17 Pro 120Hz, Soft OLED
 MS-107182114142;100;435.9;Display iPhone 17 Pro Max 120Hz, Soft OLED
-MS-107182114148;11;260.9;Baterie iPhone 17, Original Demontat Grad A (sanatate 99-100%)
+MS-107182114148;10;260.9;Baterie iPhone 17, Original Demontat Grad A (sanatate 99-100%)
 MS-107182114149;7;254.9;Cablu Flex Blitz (Lanterna) iPhone 17
 MS-107182114150;16;472.9;Camera Spate iPhone 17, Premium
 MS-107182114152;17;36.9;Motor Vibratii (Taptic Engine) iPhone 17
@@ -9099,7 +9099,7 @@ MS-107182114181;6;244.9;Antena NFC si Incarcare Wireless iPhone 17 Pro Max
 MS-107182114180;6;285.9;Baterie iPhone 17 Pro Max, Original Demontat Grad A (sanatate 99-100%) - Versiune SUA (US)
 MS-107182114182;13;429.9;Camera Frontala Selfie iPhone 17 Pro Max
 MS-107182114183;30;32.9;Motor Vibratii (Taptic Engine) iPhone 17 Pro Max
-MS-107182114184;11;102.9;Difuzor Casca Apel iPhone 17 Pro Max
+MS-107182114184;10;102.9;Difuzor Casca Apel iPhone 17 Pro Max
 MS-107182114185;5;111.9;Difuzor Sonerie (Buzzer) iPhone 17 Pro Max
 MS-107182114186;9;124.9;Cablu Flex Butoane Pornire / Volum iPhone 17 Pro Max
 MS-107182114187;8;89.9;Cablu Flex Butoane Pornire / Volum iPhone 17 Pro Max
@@ -9265,7 +9265,7 @@ MS-107182129283;3;646.9;Capac Spate (Sticla) iPhone 16 cu MagSafe, Original Serv
 MS-107182199130;100;205.9;Camera Frontala Selfie iPhone 15 Pro
 MS-107182199152;0;646.9;Capac Spate (Sticla) iPhone 16 cu MagSafe, Original Service Pack, Turcoaz
 MS-107182199471;47;486.9;Display iPhone 17 Pro 120Hz, Soft OLED
-MS-107182199472;10;486.9;Display iPhone 17 120Hz, Soft OLED
+MS-107182199472;7;486.9;Display iPhone 17 120Hz, Soft OLED
 MS-107182199473;28;359.9;Display iPhone 17 120Hz, LCD Incell
 MS-107182199475;76;418.9;Display iPhone 17 Pro 120Hz, LCD Incell
 MS-107182199474;44;370.9;Display iPhone 17 Pro Max 120Hz, LCD Incell
@@ -10578,7 +10578,7 @@ MS-107082091701;9;244.9;Display Motorola Moto G84 cu Rama, Original Reconditiona
 MS-107082077729;1;96.9;Camera Spate Principala (Wide) Motorola Moto E20, Original
 MS-107082028431;1;100.9;Camera Spate Ultra Wide Motorola Moto G10, Original
 MS-107082086133;2;89.9;Camera Spate 8MP Motorola Moto G9 Plus, Original
-MS-107082010254;2;31.9;Difuzor Casca Apel Motorola Edge 30 Pro
+MS-107082010254;1;31.9;Difuzor Casca Apel Motorola Edge 30 Pro
 MS-107082135807;3;1245.9;Display Motorola Razr 40 cu Rama, Original Reconditionat, Sage Green
 MS-107082135810;2;1518.9;Display Motorola Razr 40 cu Rama, Original Reconditionat, Vanilla Cream
 MS-107082140891;9;251.9;Display Motorola ThinkPhone fara Rama, Original Reconditionat
@@ -10861,7 +10861,7 @@ MS-107083546419;0;40.9;Cablu Antena Coaxial Motorola Razr 50 Ultra, Original
 MS-107083546610;23;140.9;Display Motorola Moto G05 cu Rama, Original Reconditionat
 MS-107083546611;14;143.9;Display Motorola Moto G15 cu Rama, Original Reconditionat
 MS-107083546612;14;128.9;Display Motorola Moto G15 fara Rama, Original Reconditionat
-MS-107083546613;17;127.9;Display Motorola Moto E15 fara Rama, Original Reconditionat
+MS-107083546613;16;127.9;Display Motorola Moto E15 fara Rama, Original Reconditionat
 MS-107082113027;1;120.9;Baterie Motorola Razr 50
 MS-107082113028;0;558.9;Display Motorola Edge 30 Fusion cu Rama, Original, Viva Magenta
 MS-107082113031;0;186.9;Display Motorola Moto E13 cu Rama, Original
@@ -10890,7 +10890,7 @@ MS-107282214295;2;2311.9;Display Motorola Razr 60 Ultra cu Rama, Original Recond
 MS-107282214296;4;2311.9;Display Motorola Razr 60 Ultra cu Rama, Original Reconditionat, Mountain Trail
 MS-107282214555;2;234.9;Display Motorola Moto G86 / Moto G86 Power fara Rama, Original Reconditionat
 MS-107282214581;12;117.9;Display Motorola Moto G55 fara Rama, Original Reconditionat
-MS-107282214582;18;129.9;Display Motorola Moto G55 cu Rama, Original Reconditionat
+MS-107282214582;16;129.9;Display Motorola Moto G55 cu Rama, Original Reconditionat
 MS-107282214628;0;1481.9;Display Motorola Razr 60 Ultra fara Rama, Original, Mountain Trail
 MS-107282214629;2;1460.9;Display Motorola Razr 60 Ultra fara Rama, Original, Scarab
 MS-107282214634;2;73.9;Suport Sertar Single SIM Motorola Razr 60 Ultra
@@ -10973,7 +10973,7 @@ MS-107282215270;6;34.9;Cablu Flex Placa de Baza (Main Flex) Motorola Edge 60
 MS-107282215271;3;27.9;Cablu Antena Coaxial Motorola Edge 60, Premium
 MS-107282215274;3;36.9;Difuzor Sonerie (Buzzer) Motorola Edge 60 Fusion, Premium
 MS-107282215273;3;29.9;Motor Vibratii Motorola Edge 60
-MS-107282215275;7;28.9;Cablu Antena Coaxial Motorola Edge 60, Premium
+MS-107282215275;6;28.9;Cablu Antena Coaxial Motorola Edge 60, Premium
 MS-107282215277;3;27.9;Adeziv Baterie Motorola Edge 60
 MS-107282215279;6;32.9;Capac Spate Motorola Edge 60, Premium
 MS-107282215278;0;114.9;Capac Spate Motorola Edge 60, Premium, Slipstream
@@ -11005,7 +11005,7 @@ MS-107282226236;3;33.9;Capac Spate Motorola Moto G 5G Plus, Original, Surfing Bl
 MS-107182117209;5;142.9;Display Motorola Moto G06 fara Rama, Original Reconditionat
 MS-107182117210;32;128.9;Display Motorola Moto G06 cu Rama, Original Reconditionat
 MS-107182127442;5;389.9;Display Motorola Moto G67 fara Rama, Original Reconditionat
-MS-107182127509;1;95.9;Placa Mufa Incarcare Motorola Edge 40 Pro
+MS-107182127509;0;95.9;Placa Mufa Incarcare Motorola Edge 40 Pro
 MS-107182127620;6;86.9;Baterie Motorola Moto G60
 MS-107182127623;9;83.9;Baterie Motorola Moto G15 Power
 MS-107182127624;5;125.9;Baterie Motorola Edge 60 Fusion
@@ -11033,7 +11033,7 @@ MS-107182129180;5;31.9;Mufa Jack Casti Motorola Moto G54
 MS-107182129181;5;77.9;Placa Mufa Incarcare Motorola Moto G14, Premium
 MS-107182129183;2;85.9;Camera Spate Principala (Wide) Motorola Edge 40 Neo, Premium
 MS-107182129186;5;98.9;Camera Spate Principala (Wide) Motorola Edge 40 Pro, Premium
-MS-107182129190;14;78.9;Placa Mufa Incarcare Motorola Moto G84, Premium
+MS-107182129190;13;78.9;Placa Mufa Incarcare Motorola Moto G84, Premium
 MS-107182129194;6;77.9;Placa Mufa Incarcare Motorola Moto G54, Premium
 MS-107182129193;3;77.9;Placa Mufa Incarcare Motorola Moto G34, Premium
 MS-107182129195;4;32.9;Difuzor Sonerie (Buzzer) Motorola Moto G14, Premium
@@ -11294,7 +11294,7 @@ MS-107082115321;6;84.9;Placa Mufa Incarcare Xiaomi POCO X3 Pro cu Mufa Jack, Com
 MS-107082121321;5;39.9;Placa Mufa Incarcare Xiaomi POCO M4 Pro 4G cu Mufa Jack, Compatibil Plus
 MS-107082114320;4;33.9;Cablu Flex Placa de Baza (Main Flex) Xiaomi Redmi Note 9
 MS-107082125423;8;31.9;Difuzor Sonerie (Buzzer) Xiaomi Redmi Note 11 5G
-MS-107082127201;21;130.9;Display Xiaomi Redmi 10C cu Rama, Original Reconditionat
+MS-107082127201;20;130.9;Display Xiaomi Redmi 10C cu Rama, Original Reconditionat
 MS-107082119004;6;498.9;Display Xiaomi Mi 11 fara Rama, Original Reconditionat
 MS-107082126202;1;156.9;Display Xiaomi POCO X3 GT cu Rama, Original Reconditionat
 MS-107082125424;6;35.9;Difuzor Sonerie (Buzzer) Xiaomi Redmi Note 11
@@ -11553,7 +11553,7 @@ MS-107082128521;4;86.9;Rama Mijloc Carcasa Xiaomi Redmi Note 11 Pro Plus 5G, Mys
 MS-107082127536;1;28.9;Difuzor Casca Apel Xiaomi Redmi Note 11 Pro
 MS-107082125403;42;206.9;Display Xiaomi Redmi Note 11 / Redmi Note 11S / POCO M4 Pro 4G fara Rama, OLED Plus
 MS-107082127537;8;37.9;Difuzor Sonerie (Buzzer) Xiaomi Redmi Note 11 Pro
-MS-107082126304;29;136.9;Display Xiaomi Redmi Note 10 / Redmi Note 10S cu Rama, LCD Incell
+MS-107082126304;28;136.9;Display Xiaomi Redmi Note 10 / Redmi Note 10S cu Rama, LCD Incell
 MS-107082126309;11;470.9;Display Xiaomi Redmi Note 10 / Redmi Note 10S cu Rama, Original Reconditionat
 MS-107082126310;3;142.9;Display Xiaomi Redmi Note 9S / Redmi Note 9 Pro cu Rama, OLED Plus, Glacier White
 MS-107082126505;11;299.9;Display Xiaomi Mi 11 Lite / Mi 11 Lite 5G fara Rama, Original Reconditionat
@@ -12078,7 +12078,7 @@ MS-107183138231;2;30.9;Difuzor Sonerie (Buzzer) Xiaomi Mi 11 Pro / Mi 11 Ultra
 MS-107183138232;10;30.9;Difuzor Casca Apel Xiaomi Mi 11 Pro / Mi 11 Ultra
 MS-107183138233;5;32.9;Cablu Flex Placa de Baza (Main Flex) Xiaomi Mi 11 Pro / Mi 11 Ultra
 MS-107183138234;5;30.9;Cablu Flex Butoane Pornire si Volum Xiaomi Mi 11 Pro / Mi 11 Ultra
-MS-107183138235;5;41.9;Placa Mufa Incarcare Xiaomi Mi 11 Pro / Mi 11 Ultra
+MS-107183138235;4;41.9;Placa Mufa Incarcare Xiaomi Mi 11 Pro / Mi 11 Ultra
 MS-107183138258;5;30.9;Suport Sertar SIM Xiaomi Redmi 10 5G, Graphite Gray
 MS-107183138259;5;30.9;Suport Sertar SIM Xiaomi Redmi 10 5G, Chrome Silver
 MS-107183138260;6;30.9;Suport Sertar SIM Xiaomi Redmi 10 5G, Aurora Green
@@ -12788,7 +12788,7 @@ MS-107183202127;10;31.9;Difuzor Sonerie (Buzzer) Xiaomi Redmi Note 11S 5G
 MS-107183202145;0;184.9;Display Xiaomi Mi 10T Pro fara Rama, Original, Negru
 MS-107183202175;0;156.9;Display Xiaomi Mi 10T Lite fara Rama, Original Service Pack
 MS-107082121601;2;145.9;Display Honor 30 fara Rama, Original Reconditionat – compatibil si Huawei P40 Lite 5G / Nova 7 SE / Honor 30S
-MS-107082133802;6;214.9;Display Huawei Nova 8i cu Rama, Original Recondiționat, Starry Black – compatibil si Honor 50 Lite / Honor X20
+MS-107082133802;5;214.9;Display Huawei Nova 8i cu Rama, Original Recondiționat, Starry Black – compatibil si Honor 50 Lite / Honor X20
 MS-107082133801;6;156.9;Display Huawei Nova 8i fara Rama, Original Recondiționat – compatibil si Honor 50 Lite / Honor X20
 MS-107082134702;7;148.9;Display Honor X7 cu Rama, Original Reconditionat
 MS-107082134801;9;138.9;Display Honor X8 fara Rama, OLED Plus
@@ -12803,7 +12803,7 @@ MS-107082137501;5;402.9;Display Honor 50 Pro fara Rama, Original Reconditionat �
 MS-107082137701;5;317.9;Display Honor 70 fara Rama, Original Reconditionat
 MS-107082137601;5;241.9;Display Honor 60 fara Rama, Original Reconditionat
 MS-107082109153;17;111.9;Display Honor X6 / X8 5G / 70 Lite 5G fara Rama, OLED Plus
-MS-107082109154;7;187.9;Display Honor X8a / X50i / 90 Lite fara Rama, Original Reconditionat
+MS-107082109154;6;187.9;Display Honor X8a / X50i / 90 Lite fara Rama, Original Reconditionat
 MS-107082134810;30;136.9;Display Honor X6 / X8 5G / 70 Lite 5G cu Rama, OLED Plus
 MS-107082134811;35;220.9;Display Honor X8a / X50i / 90 Lite cu Rama, Original Reconditionat, Midnight Black
 MS-107082137714;12;135.9;Display Honor X7a cu Rama, Original Reconditionat
@@ -12976,7 +12976,7 @@ MS-107182114246;16;377.9;Display Honor Magic4 Pro / Magic4 fara Rama, Original R
 MS-107182114247;3;269.9;Display Honor Magic5 fara Rama, Original Reconditionat
 MS-107182114248;12;213.9;Display Honor Magic5 Pro fara Rama, Original Reconditionat
 MS-107182114249;2;213.9;Display Honor Magic6 fara Rama, Original Reconditionat
-MS-107182114346;18;100.9;Display Honor X8a / X50i / 90 Lite fara Rama, OLED Plus
+MS-107182114346;17;100.9;Display Honor X8a / X50i / 90 Lite fara Rama, OLED Plus
 MS-107182114347;18;124.9;Display Honor X8a / X50i / 90 Lite cu Rama, OLED Plus, Midnight Black
 MS-107182116643;2;133.9;Baterie Honor 200 Pro
 MS-107182116673;9;137.9;Baterie Honor Magic4 Pro
@@ -13002,7 +13002,7 @@ MS-107182228343;5;248.9;Display Honor X60 / X9c Smart cu Rama, Original Recondit
 MS-107182228345;5;248.9;Display Honor X60 / X9c Smart cu Rama, Original Reconditionat, Argintiu
 MS-107182228344;5;248.9;Display Honor X60 / X9c Smart cu Rama, Original Reconditionat, Verde
 MS-107182228778;14;452.9;Display Honor Magic5 Pro cu Rama, Original Reconditionat, Negru
-MS-107182228779;7;488.9;Display Honor Magic5 Pro cu Rama, Original Reconditionat, Meadow Green
+MS-107182228779;6;488.9;Display Honor Magic5 Pro cu Rama, Original Reconditionat, Meadow Green
 MS-107182921010;11;899.9;Display Honor Magic7 Pro cu Rama, Original Reconditionat, Negru
 MS-107182921011;7;966.9;Display Honor Magic7 Pro cu Rama, Original Reconditionat, Alb
 MS-107182921012;5;966.9;Display Honor Magic7 Pro cu Rama, Original Reconditionat, Breeze Blue
@@ -13117,14 +13117,14 @@ MS-107082027902;6;125.9;Display ZTE Blade A71 fara Rama, Original Reconditionat
 MS-107082131053;5;157.9;Display ZTE Blade V40 Smart cu Rama, Original Reconditionat
 MS-107082137711;6;143.9;Display ZTE Blade A72 4G cu Rama, Original Reconditionat, Space Gray
 MS-107183123839;12;136.9;Display ZTE Blade A75 4G / Blade V60 Design / Blade V60 Vita si altele fara Rama, Original Reconditionat
-MS-107183123023;4;157.9;Display ZTE Blade A75 5G / Blade V60 Smart fara Rama, Original Reconditionat
+MS-107183123023;3;157.9;Display ZTE Blade A75 5G / Blade V60 Smart fara Rama, Original Reconditionat
 MS-107183123041;4;162.9;Display ZTE Blade A75 4G cu Rama, Original Reconditionat
 MS-107082133499;2;126.9;Display ZTE Blade A51 fara Rama, Original Reconditionat
 MS-107282214897;6;81.9;Baterie ZTE Blade A52 4G (2022) / Blade A75 4G / Blade V30 Vita (2021)
 MS-107182127536;2;86.9;Baterie Nubia V60 Design / ZTE Blade V60 Vita / ZTE Blade V60 Design BL-49S-976546
 MS-107182127619;2;92.9;Baterie ZTE Blade A5 (2020) / Blade A51 (2021)
 MS-107182228613;17;117.9;Display ZTE Blade A35 / Blade A55 fara Rama, Original Reconditionat
-MS-107182228614;19;117.9;Display ZTE Blade A36 / Blade A56 / Blade A76 4G fara Rama, Original Reconditionat
+MS-107182228614;18;117.9;Display ZTE Blade A36 / Blade A56 / Blade A76 4G fara Rama, Original Reconditionat
 MS-107182228708;4;106.9;Display ZTE Blade A53 Pro 4G fara Rama, OLED Plus
 MS-107182228737;2;649.9;Display Nubia RedMagic 9 Pro fara Rama, Original Reconditionat
 MS-11000000776;4;140.9;Display ZTE Blade A35 / Blade A55 cu Rama, Original Reconditionat
@@ -13688,7 +13688,7 @@ MS-107082059170;0;24.9;Suport Sertar SIM Google Pixel 10 Pro Fold, Jade
 MS-107082059177;6;43.9;Adeziv Display Google Pixel 10 Pro Fold
 MS-107182113489;17;40.9;Adeziv Display Google Pixel 9 Pro Fold
 MS-107182113844;13;551.9;Display Google Pixel 10 cu Rama, Original Reconditionat
-MS-107182113845;10;550.9;Display Google Pixel 10 Pro cu Rama, Original Reconditionat
+MS-107182113845;9;550.9;Display Google Pixel 10 Pro cu Rama, Original Reconditionat
 MS-107182113846;4;996.9;Display Google Pixel 10 Pro XL cu Rama, Original Reconditionat
 MS-107182114120;0;318.9;Placa Mufa Incarcare Google Pixel 9 Pro
 MS-107182114127;3;264.9;Placa Mufa Incarcare Google Pixel 10 Pro XL, Original
@@ -13970,7 +13970,7 @@ MS-107082268555;39;142.9;Display Samsung Galaxy S8 cu Rama, LCD Incell, Midnight
 MS-107082268556;11;147.9;Display Samsung Galaxy S8 Plus cu Rama, LCD Incell, Midnight Black
 MS-107082360075;8;145.9;Display Samsung Galaxy S8 cu Rama, LCD Incell, Maple Gold
 MS-107082360076;9;145.9;Display Samsung Galaxy S8 cu Rama, LCD Incell, Orchid Gray
-MS-107082360077;9;140.9;Display Samsung Galaxy S8 Plus cu Rama, LCD Incell, Arctic Silver
+MS-107082360077;8;140.9;Display Samsung Galaxy S8 Plus cu Rama, LCD Incell, Arctic Silver
 MS-107082360078;9;140.9;Display Samsung Galaxy S8 Plus cu Rama, LCD Incell, Coral Blue
 MS-107082013101;6;601.9;Display Samsung Galaxy S9 cu Rama, Original Service Pack, Midnight Black
 MS-107082013102;2;693.9;Display Samsung Galaxy S9 cu Rama, Original Service Pack, Lilac Purple
@@ -14421,7 +14421,7 @@ MS-107082091223;7;44.9;Difuzor Sonerie (Buzzer) Apple Watch Ultra 49mm
 MS-107082091220;5;84.9;Motor Vibratii Apple Watch Ultra 49mm
 MS-107082091232;1;745.9;Display Apple Watch Ultra 49mm, Original Demontat Grad A/B
 MS-107082091231;2;1126.9;Display Apple Watch Ultra 49mm, Original Demontat Grad A/B
-MS-107082008105;94;389.9;Display Apple Watch SE 2 44mm, Premium
+MS-107082008105;93;389.9;Display Apple Watch SE 2 44mm, Premium
 MS-107082008104;28;327.9;Display Apple Watch SE 2 40mm, Premium
 MS-107082091235;7;286.9;Baterie Apple Watch Ultra 49mm
 MS-107082131220;0;163.9;Baterie Apple Watch Series 9 41mm
@@ -14559,7 +14559,7 @@ MS-107082120001;0;107.9;Display Oppo F11 / A9 / A9X fara Rama, Original Recondi�
 MS-107082120101;14;128.9;Display Oppo A15 / A15S cu Rama, Original Recondiționat
 MS-107082119801;3;116.9;Display Oppo F9 / F9 Pro / A7X fara Rama, Original Recondiționat
 MS-107082119901;4;127.9;Display Oppo F7 / A3 fara Rama, Original Recondiționat
-MS-107082121001;10;121.9;Display Oppo A54s / A16 / A16S fara Rama, Original Recondiționat
+MS-107082121001;9;121.9;Display Oppo A54s / A16 / A16S fara Rama, Original Recondiționat
 MS-107082120901;6;295.9;Display Oppo Reno 2 Z / Reno 2 F / K3 fara Rama, OLED Plus
 MS-107082121401;12;122.9;Display Oppo A32 / A33 / A53 si altele fara Rama, Original Recondiționat
 MS-107082121002;12;133.9;Display Oppo A54s / A16 cu Rama, Original Recondiționat
@@ -14667,7 +14667,7 @@ MS-107182923255;57;119.9;Display Oppo A5 4G / A5 5G / A5 Pro 5G si altele fara R
 MS-107182923256;30;130.9;Display Oppo A5 4G cu Rama, Original Recondiționat
 MS-107182923257;23;152.9;Display Oppo A5 Pro 5G cu Rama, Original Recondiționat, Mocha Brown
 MS-107182923258;10;152.9;Display Oppo A5 Pro 5G cu Rama, Original Recondiționat, Feather Blue
-MS-107182923281;4;152.9;Display Oppo A5 Pro 5G cu Rama, Original Recondiționat, Flower Pink
+MS-107182923281;3;152.9;Display Oppo A5 Pro 5G cu Rama, Original Recondiționat, Flower Pink
 MS-107082059017;33;78.9;Baterie Huawei P30 Lite / Nova 4e
 MS-107082061120;27;84.9;Baterie Huawei P30 Pro
 MS-107082060350;11;44.9;Placa Mufa Incarcare Huawei P30
@@ -15062,7 +15062,7 @@ MS-107082104787;0;243.9;Carcasa Spate Completa iPhone 12 Mini, Original Demontat
 MS-107085005886;1;475.9;Carcasa Spate Completa iPhone 12 Pro Max, Original Demontat Grad A, Argintiu - Versiune EU
 MS-107082052190;0;750.9;Display iPhone 14, Original Service Pack
 MS-107085004371;100;145.9;Rama Mijloc Carcasa iPhone 14, Compatibil Plus, Negru (Midnight) - Versiune EU
-MS-107082130643;8;289.9;Capac Spate (Sticla) iPhone 15 Plus cu MagSafe, Original Demontat Grad A, Albastru
+MS-107082130643;7;289.9;Capac Spate (Sticla) iPhone 15 Plus cu MagSafe, Original Demontat Grad A, Albastru
 MS-107082139078;0;76.9;Camera Spate iPhone 14 / 14 Plus / 15 si altele
 MS-107082289130;0;256.9;Baterie iPhone SE (2022), Original Apple
 MS-107082289142;100;363.9;Baterie iPhone 15 Pro Max, Original Apple
@@ -15365,7 +15365,7 @@ MS-109082006734;8;37.9;Cablu de Alimentare AC PlayStation 5
 MS-109082006735;100;80.9;Joystick Analog 3D PlayStation 5, 10 Pack
 MS-109082006738;44;43.9;Butoane PlayStation 5, Set 16 buc, Midnight Black
 MS-109082006744;100;263.9;Sursa de Alimentare PlayStation 5
-MS-109082006771;45;35.9;Capace Joystick (Thumbstick) PlayStation 5, Set 8 buc
+MS-109082006771;44;35.9;Capace Joystick (Thumbstick) PlayStation 5, Set 8 buc
 MS-109082006772;41;387.9;Unitate Optica Blu-Ray PlayStation 5 (CFI-1015A / 1000 Series) - 6772
 MS-109082006774;100;129.9;Capace Joystick (Thumbstick) PlayStation 5, Negru
 MS-109082006776;100;32.9;Joystick Analog 3D PlayStation 5 - 6776
@@ -15384,7 +15384,7 @@ MS-107085006022;1;213.9;Carcasa PlayStation 5 Slim, Set 2 buc, Negru
 MS-107085006023;2;150.9;Carcasa PlayStation 5 Slim, Set 2 buc, Mov
 MS-109082006793;90;33.9;Membrana Conductiva Butoane Controller PS5 DualSense (Version 1) - 6793
 MS-109082006794;61;32.9;Membrana Conductiva Butoane Controller PS5 DualSense (Version 2) - 6794
-MS-109082006795;65;32.9;Membrana Conductiva Butoane Controller PS5 DualSense (Version 1) - 6795
+MS-109082006795;64;32.9;Membrana Conductiva Butoane Controller PS5 DualSense (Version 1) - 6795
 MS-109082006796;100;32.9;Membrana Conductiva Butoane Controller PS5 DualSense (Version 2) - 6796
 MS-109082006797;100;31.9;Membrana Conductiva Butoane Controller PS5 DualSense (Version 3)
 MS-107082096853;92;32.9;Membrana Conductiva Butoane PlayStation 5, Set 6 buc, V3
@@ -15415,7 +15415,7 @@ MS-107182136834;0;578.9;Capace Carcasa (Faceplate) PlayStation 5 Slim, Disc Edit
 MS-107182137191;17;96.9;Capace Carcasa (Faceplate) PlayStation 5, Diablo II
 MS-107182137192;7;110.9;Capace Carcasa (Faceplate) PlayStation 5, Diablo IV
 MS-107182137193;14;106.9;Capace Carcasa (Faceplate) PlayStation 5, Horizon
-MS-107182137576;13;116.9;Unitate Optica Blu-Ray PlayStation 5 (CFI-1015A / 1000 Series) - 7576
+MS-107182137576;12;116.9;Unitate Optica Blu-Ray PlayStation 5 (CFI-1015A / 1000 Series) - 7576
 MS-107182137577;13;98.9;Unitate Optica Blu-Ray PlayStation 5 (CFI-1115A / 1100 Series) - 7577
 MS-107182137578;31;114.9;Unitate Optica Blu-Ray PlayStation 5 (CFI-1215A / 1200 Series) - 7578
 MS-107183137168;2;279.9;Capace Carcasa (Faceplate) PlayStation 5 Slim, Disc Edition, Top & Bottom (Diablo Reaper Of Souls)
@@ -15427,10 +15427,10 @@ MS-107183123838;53;105.9;Capace Carcasa (Faceplate) PlayStation 5, Space Robot
 MS-107082132260;13;33.9;Cablu Flex / Placa PlayStation 5 - 2260
 MS-107082546416;24;95.9;Cablu Flex / Placa PlayStation 5 (EDU-030)
 MS-107083546428;93;36.9;Placa / Flex Unitate Optica PlayStation 5, CFI-12XX
-MS-107082113196;16;32.9;Flex Motor Unitate Optica PlayStation 5 (1200 Optical Drive Cable) - 3196
+MS-107082113196;15;32.9;Flex Motor Unitate Optica PlayStation 5 (1200 Optical Drive Cable) - 3196
 MS-107082113197;21;31.9;Flex Motor Unitate Optica PlayStation 5 (1200 Optical Drive Cable) - 3197
 MS-107082113198;26;31.9;Flex Motor Unitate Optica PlayStation 5 (1000 / 1100 Optical Drive Cable) - 3198
-MS-107082113199;22;31.9;Flex Motor Unitate Optica PlayStation 5 (1000 / 1100 Optical Drive Cable) - 3199
+MS-107082113199;21;31.9;Flex Motor Unitate Optica PlayStation 5 (1000 / 1100 Optical Drive Cable) - 3199
 MS-107082113561;28;189.9;Capace Carcasa (Faceplate) PlayStation 5, Disc Edition, Alb
 MS-107282215003;20;166.9;Mufa de Incarcare USB-C PlayStation 5 Slim
 MS-107282215141;26;90.9;Butoane Trigger / Shoulder Controller PS5 DualSense, Negru (1.0)
@@ -15827,7 +15827,7 @@ MS-107182199191;0;147.9;Capac Spate OnePlus Nord CE 3 Lite, Original, Gri
 MS-107182200580;0;115.9;Capac Spate OnePlus Nord CE 2 Lite, Original, Negru
 MS-107182200575;0;187.9;Camera Spate OnePlus 11, Original
 MS-107182200571;0;112.9;Camera Frontala Selfie OnePlus 11, Original
-MS-107182228071;5;100.9;Capac Spate OnePlus 8, Glacial Green
+MS-107182228071;4;100.9;Capac Spate OnePlus 8, Glacial Green
 MS-107182228142;4;407.9;Display OnePlus 15R fara Rama, Original Recondiționat
 MS-107182228261;15;571.9;Display OnePlus 15R cu Rama, Original Recondiționat, Charcoal Black
 MS-107182228788;19;928.9;Display OnePlus 13 cu Rama, Original Recondiționat, Eclipse Black
